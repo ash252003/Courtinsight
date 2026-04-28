@@ -15,4 +15,7 @@
     <string name="enter_otp">Enter OTP</string>
     <string name="verify">Verify</string>
     <string name="change_password">Change Password</string>
+    <string name="linkedin_link"><![CDATA[https://www.linkedin.com/in/ashish-yadav-a310b9262?utm_source=share_via&utm_content=profile&utm_medium=member_android]]></string>
+    <string name="insta_link">https://www.instagram.com/ashish.09.03?igsh=Z2sweDZidXpzYXhx</string>
+    <string name="facebok_link">https://www.facebook.com/ashish.yadav.553250</string>
 </resources>

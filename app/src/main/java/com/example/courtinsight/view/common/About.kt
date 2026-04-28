@@ -41,11 +41,14 @@ fun About() {
     val labelValue = listOf(version, "CourtInsight Team", terms, privacyPolicy)
     val item = listOf(
         socialLogo(1, R.drawable.facebook, "Facebook",
-            "https://www.facebook.com"),
+            stringResource(R.string.facebok_link)
+        ),
         socialLogo(2, R.drawable.instagram, "Instagram",
-            "https://www.instagram.com"),
+            stringResource(R.string.insta_link)
+        ),
         socialLogo(3, R.drawable.linkedin, "Linkedin",
-            "https://www.linkedin.com"),
+            stringResource(R.string.linkedin_link)
+        ),
     )
     val context = LocalContext.current
     LazyColumn(
