@@ -88,6 +88,6 @@ This platform is intended for **educational and informational purposes only** an
 
 Team CourtInsight
 
-Ashish Yadav
-Ayushi Yadav
-Vincent Silveira
+- Ashish Yadav
+- Ayushi Yadav
+- Vincent Silveira
