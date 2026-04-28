@@ -81,9 +81,20 @@ This feature will help users better understand the functioning and efficiency of
 
 ---
 
-## Disclaimer
+## Demo Access
 
-This platform is intended for **educational and informational purposes only** and should not be considered legal advice.
+If you would like to test the application, please use the demo account provided below.
+
+- court login
+Email: uy6062@gmail.com  
+Password: Ay@12345
+
+- user login
+Email: ay67986798@gmail.com  
+Password: Ashish@12345
+
+- To Change User Type to Court Use the below PIN
+PIN: 6798
 
 ---
 
@@ -94,3 +105,9 @@ Team CourtInsight
 - Ashish Yadav
 - Ayushi Yadav
 - Vincent Silveira
+
+---
+
+## Disclaimer
+
+This platform is intended for **educational and informational purposes only** and should not be considered legal advice.
