@@ -86,15 +86,16 @@ This feature will help users better understand the functioning and efficiency of
 If you would like to test the application, please use the demo account provided below.
 
 - court login
+
 Email: uy6062@gmail.com  
 Password: Ay@12345
 
 - user login
+
 Email: ay67986798@gmail.com  
 Password: Ashish@12345
 
-- To Change User Type to Court Use the below PIN
-PIN: 6798
+- To Change User Type to Court Use the PIN: 6798
 
 ---
 
