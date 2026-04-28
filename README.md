@@ -46,6 +46,9 @@ Additionally, **Phi-2 and Llama 3.2 3B models** were fine-tuned using **3,000 cu
 
 Court administrators will be able to upload legal case documents directly to the platform.
 
+Live prototype:  
+https://huggingface.co/spaces/Ayushi054/summaraization
+
 The **distilbart-cnn-12-6 summarization model** will generate concise summaries of long legal documents by extracting key information while removing unnecessary legal jargon.
 
 A **privacy filter** will verify the summarized output to ensure compliance with:
