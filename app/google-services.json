@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56829436226",
+    "project_id": "courtinsight-ba5ed",
+    "storage_bucket": "courtinsight-ba5ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56829436226:android:7b20fb8c47d043f5dba8db",
+        "android_client_info": {
+          "package_name": "com.example.courtinsight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4FphVz_bFa9l5rLnoNomtwvjnkMAA_8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

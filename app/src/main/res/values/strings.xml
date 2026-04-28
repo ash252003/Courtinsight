@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CourtInsight</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_toggle">Password Toggle</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="new_user">New User?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="terms">By using CourtInsight, you agree to the following terms.\n\nCourtInsight provides legal information and case insights for informational purposes only. The content in the app should not be considered professional legal advice.\nUsers agree to use the application responsibly and only for lawful purposes. Any misuse of the platform or attempts to disrupt the service are prohibited.\n\nAll content, including text, design, and logos, belongs to CourtInsight unless otherwise stated and may not be copied or distributed without permission.\n\nCourtInsight does not guarantee that all information is complete or error-free and is not responsible for decisions made based on the app’s content.\n\nWe may update these terms from time to time. Continued use of the app means you accept the updated terms.</string>
+    <string name="privacy">CourtInsight respects your privacy and is committed to protecting user data.\n\nThe app may collect limited information such as device details, usage data, and information provided by users to improve app performance and user experience.\n\nCollected data is used only to operate and improve the application. CourtInsight does not sell or share personal information with third parties except when required by law or necessary to provide services.\n\nWe use reasonable security measures to protect user data from unauthorized access.\n\nThis Privacy Policy may be updated periodically. Continued use of the app indicates acceptance of the updated policy.</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify">Verify</string>
+    <string name="change_password">Change Password</string>
+</resources>
